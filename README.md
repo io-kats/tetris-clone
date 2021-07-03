@@ -1,4 +1,4 @@
-# Tetris clone written in JavaScript.
+# Tetris clone written in JavaScript for the browser
 A simple Tetris clone written in Javascript for the browser, drawn using the Canvas API.
 I was inspired by this gif on the Wikipedia article for Tetris:
 https://commons.wikimedia.org/wiki/File:Tetris_Game_4-Line_Clear.gif.
