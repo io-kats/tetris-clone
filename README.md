@@ -3,6 +3,7 @@ A simple Tetris clone written in Javascript for the browser, drawn using the Can
 I was inspired by this gif on the Wikipedia article for Tetris:
 https://commons.wikimedia.org/wiki/File:Tetris_Game_4-Line_Clear.gif.
 I tried to replicate the look of the board, but more emphasis was given to the game logic.
+
 ![Tetris clone screenshot](./tetris_clone.PNG)
 
 ## Table of contents
