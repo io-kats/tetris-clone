@@ -1,0 +1,15 @@
+html {
+    height: "100%";
+    width: "100%";
+}
+
+canvas {
+    height: "100%";
+    width: "100%";
+}
+
+#tetris-title {
+    font-size: 32px;
+    font-family: 'Helvetica';
+    margin: 10px;
+}
